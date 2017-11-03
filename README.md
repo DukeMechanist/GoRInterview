@@ -19,7 +19,8 @@
 6. （选做）如果不会使用Github，则把整个工程打包后，发到email：hr@mechanist.co
 
         
-## Bonus：
+## 加分项：
 1. 使用Quaternion
 2. 模块之间不耦合
 3. 斩杀时的表现
+4. [小谜题](https://gist.github.com/DukeMechanist/08260dd4d06096d410fa5dbb5e1a240b)
