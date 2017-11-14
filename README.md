@@ -30,4 +30,4 @@
 1. 使用Quaternion
 2. 模块之间不耦合
 3. 运行时，要演示的东西清晰明了，有一些额外的表现效果。
-4. [小谜题](https://gist.github.com/DukeMechanist/08260dd4d06096d410fa5dbb5e1a240b)
+4. [小谜题](https://gist.github.com/DukeMechanist/08260dd4d06096d410fa5dbb5e1a240b)，请破解密文~
